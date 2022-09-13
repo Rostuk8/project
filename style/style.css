@@ -140,6 +140,31 @@ margin-left: 9px;
     margin: 0 auto;
 }
 
+.commerce{
+    margin-bottom: 136px;
+    text-align: center;
+}
+
+.commerce_title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+    margin-bottom: 79px;
+}
+
+.commerce_pretitle{
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 23px;
+    margin: 42px 0 16px;
+}
+
+.commerce_text{
+    font-size: 15px;
+    line-height: 22px;
+    max-width: 316px;
+}
+
 .footer{
     background-color: #20003C;
     padding: 58px 0;
